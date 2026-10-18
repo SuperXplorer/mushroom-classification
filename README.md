@@ -1,0 +1,5 @@
+# Introduction
+
+When we think of a poisonous mushroom, what comes to mind first? Many assume that bright colors indicate toxicity, while others believe shape or form plays a key role. However, determining a mushroom’s toxicity requires analyzing multiple factors; making a mistake can be fatal. Mushrooms can vary in color, shape, and other attributes, but which traits are truly the best indicators of toxicity? What common misconceptions about these attributes exist?
+
+In this project, we aim to answer these questions by training a classification algorithm using the UCI Mushroom Dataset, which categorizes mushrooms as poisonous or edible based on various physical attributes. Our primary goal is to minimize False Positives, as mistaking a poisonous mushroom for an edible one is far more dangerous than mistaking an edible mushroom for a poisonous one. However, we still want to be able to properly identify edible mushrooms, so we should still consider the True Positive Rate when evaluating the model. A low False Positive Rate ensures safety and the True Positive Rate becomes a secondary objective.
