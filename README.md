@@ -1,4 +1,4 @@
-# Introduction
+# Mushroom Toxicity Classification
 
 When we think of a poisonous mushroom, what comes to mind first? Many assume that bright colors indicate toxicity, while others believe shape or form plays a key role. However, determining a mushroom’s toxicity requires analyzing multiple factors; making a mistake can be fatal. Mushrooms can vary in color, shape, and other attributes, but which traits are truly the best indicators of toxicity? What common misconceptions about these attributes exist?
 
